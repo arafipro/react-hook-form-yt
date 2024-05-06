@@ -8,8 +8,8 @@
 
 - TypeScript
 - Next.js
+- Tailwind CSS
 - React Hook Form
-- Cloudflare Pages
 
 ## 初期設定
 
